@@ -47,6 +47,15 @@ body {
   line-height: 1.6;
 }
 
+.tagline {
+  margin-top: 16px;
+  font-size: 1.2rem;
+  color: #333;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 0.03em;
+}
+
 @media (max-width: 480px) {
   .card {
     padding: 36px 24px;
